@@ -17,6 +17,8 @@
   border-radius: 4px;
   font: 600 1.125rem/1.35 "Poppins", sans-serif;
   max-width: max-content;
+  border: none;
+  cursor: pointer;
 }
 
 .botao:hover {
@@ -85,7 +87,7 @@
 }
 
 .titulo {
-  padding-bottom: 60px;
+  background: url("../../img/decorador/top-right.svg") no-repeat top right 20px;
 }
 
 .titulo p {
